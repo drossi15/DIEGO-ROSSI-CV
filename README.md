@@ -1,5 +1,10 @@
 # DIEGO-ROSSI-CV
-Progetti sviluppati durante la Laurea triennale in Ingegneria Informatica  
-TESI ROSSI DIEGO 1073945 : tesi di Laurea triennale in Ingegneria Informatica (Digital Twin).  
-GUstica_Report_: Analisi in RStudio sull'impatto degli allevamenti di bovini sull'inquinamento.  
+Alcuni progetti sviluppati durante il percorso di studi: 
+  
+PROGETTO STATISTICA: Analisi in RStudio sull'impatto degli allevamenti di bovini sull'inquinamento.    
+PROGETTO TECNOLOGIE CLOUD E MOBILE: Progetto per il corso di Tecnologie Cloud e Mobile (AWS).  
 ELABORATO ESAME : Progetto Diploma Elettronico.  
+PRESENTAZIONE PROGETTO INGEGNERIA DEL SOFTWARE: Presentazione pdf del progetto fatto per il corso di Ingegneria del Software.  
+TESI ROSSI DIEGO 1073945 : tesi di Laurea triennale in Ingegneria Informatica (Digital Twin).    
+
+  
