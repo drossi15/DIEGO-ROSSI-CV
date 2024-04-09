@@ -1,2 +1,2 @@
 # DIEGO-ROSSI-CV
-Progetti sviluppati durante la laurea triennale in Ingegneria Informatica
+Progetti sviluppati durante la Laurea triennale in Ingegneria Informatica
